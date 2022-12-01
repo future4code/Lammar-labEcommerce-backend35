@@ -1,25 +1,25 @@
-import {GENDER,character, movie} from "./types";
+// import {GENDER,character, movie} from "./types";
 
-export const movies: movie[] = [{
-    id:1,
-    title:"101 Dalmatas",
-    year: 1995,
-}]
-export const characters: character[] = [
+// export let movies: movie[] = [{
+//     id:1,
+//     title:"101 Dalmatas",
+//     year: 1995,
+// }]
+// export let characters: character[] = [
 
-    {
-        id:1,
-        name:"Hulk",
-        gender: GENDER.MALE
-    },
-    {
-        id:2,
-        name:"Super Man",
-        gender: GENDER.MALE
-    },
-    {
-        id:3,
-        name:"Super Girl",
-        gender: GENDER.FEMALE
-    }
-]
+//     {
+//         id:1,
+//         name:"Hulk",
+//         gender: GENDER.MALE
+//     },
+//     {
+//         id:2,
+//         name:"Super Man",
+//         gender: GENDER.MALE
+//     },
+//     {
+//         id:3,
+//         name:"Super Girl",
+//         gender: GENDER.FEMALE
+//     }
+// ]
