@@ -1,4 +1,4 @@
-GET http://localhost:3003/character?name=o&orderType=DESC
+GET http://localhost:3003/character?name=&orderType=DESC
 
 ###
 
@@ -13,5 +13,5 @@ Content-Type: application/json
 }
 ###
 
-DELETE http://localhost:3003/character/2
+DELETE http://localhost:3003/character/4
 
